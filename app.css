@@ -1,0 +1,64 @@
+body {
+    background-color: hsl(217, 54%, 11%);
+    font-size: 16px;
+    font-family: 'Outfit', sans-serif;
+}
+
+.card {
+    text-align: start;
+    margin-top: 12em;
+    border-radius: 15px;
+    background-color: hsl(216, 50%, 16%);
+}
+
+h5 {
+    color: hsl(0, 0%, 100%);
+    font-weight: 600;
+}
+
+h5:hover {
+    color: hsl(178, 100%, 50%);
+}
+
+#info {
+    color: hsl(215, 51%, 70%);
+    font-weight: 300;
+}
+
+hr {
+    color: hsl(215, 32%, 27%);
+}
+
+#img {
+    padding: .5em .5em .5em .5em;
+}
+
+.eth {
+    color: hsl(178, 100%, 50%);
+}
+
+.create {
+    color: hsl(215, 51%, 70%);
+}
+
+.name {
+    color: hsl(0, 0%, 100%);
+}
+
+.name:hover {
+    color: hsl(178, 100%, 50%);
+}
+
+.story {
+    margin-left: 2em;
+    color: hsl(215, 51%, 70%);
+}
+
+.thumb {
+    max-width: 2em;
+    border-width: 1px;
+    border-style: solid;
+    border-color: white;
+    border-radius: 50%;
+    margin-right: 1em;
+}
