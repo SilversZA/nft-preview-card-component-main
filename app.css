@@ -11,12 +11,13 @@ body {
     background-color: hsl(216, 50%, 16%);
 }
 
-h5 {
+h1 {
     color: hsl(0, 0%, 100%);
     font-weight: 600;
+    font-size: 20px;
 }
 
-h5:hover {
+h1:hover {
     color: hsl(178, 100%, 50%);
 }
 
